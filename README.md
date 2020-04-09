@@ -15,6 +15,8 @@ on building globally suitable mobile application that covers the laboratory syll
 SignIn             |  SignUp             | Navigation            | 
 :-------------------------:|:-------------------------:|:-------------------------:
 | ![Login](https://media.giphy.com/media/lOmV1wYJ5wQ68FFtb1/giphy.gif)  | ![SignUp](https://media.giphy.com/media/cO8MXdnVKwCaGLSlmb/giphy.gif) | ![Navigation](https://media.giphy.com/media/XZfxeqXDR52HxeLxqY/giphy.gif) |
+| ![profile](assets/images/snaps004.png)  | ![class](assets/images/snaps001.png) | ![profile-card](assets/images/snaps005.png) |
+| ![allclasses](assets/images/snaps002.png) |
 
 
 
