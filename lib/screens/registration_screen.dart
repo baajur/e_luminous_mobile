@@ -200,7 +200,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                     ),
                   ),
                   SizedBox(
-                    height: 20.0,
+                    height: 5.0,
                   ),
                   Container(
                     padding: EdgeInsets.symmetric(
